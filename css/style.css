@@ -4,3 +4,7 @@ body {
        color: MediumSlateBlue;
   }
 
+p { color: RosyBrown; 
+    font-style: italic;
+  }
+
