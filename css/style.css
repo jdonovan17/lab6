@@ -8,6 +8,10 @@ td { color: RosyBrown;
      font-style: italic;
   }
 
-body { background-color: Lavender;
+body { background-color: Lavender; }
 
-     }
+h1 { font-weight: bold;
+     color: Purple;
+     border: 5px dotted black;
+     outline: 4px dashed blue;
+   }
